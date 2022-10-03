@@ -8,5 +8,7 @@
 - [Pranay Jalan](https://github.com/pranayjalan254)
 - [YogeshRajput](https://github.com/yogeshrajput335)
 
+[AmanSoni](https://github.com/computerwala)
+
 <!---  [YourName](https://github.com/YourGitHubUsername) -->
 <!--- Please follow the same format as above and add your name to the list on the next line. -->
